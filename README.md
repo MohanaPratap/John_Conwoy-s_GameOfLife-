@@ -1,4 +1,5 @@
 Conway's Game of Life in JavaScript
+
 This project is an implementation of John Conway’s Game of Life using JavaScript, showcasing the famous cellular automaton simulation. The game operates on a grid of cells that evolve over successive generations based on a simple set of rules, creating complex and often unpredictable patterns from simple initial states.
 
 Rules of the Game:
